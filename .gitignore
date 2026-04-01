@@ -1,0 +1,113 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Ll]ogFiles/
+[Dd]ebug*/
+[Rr]elease*/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache options
+.vs/
+.ionide/
+
+# Generated files
+Generated\ Files/
+
+# Backup and reports
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlh
+*.tli
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+
+# Assemblies
+*.dll
+*.exe
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+packages/
+
+# Dotnet tool artifacts
+.dotnet/
+
+# MSBuild binary and structured log
+*.binlog
+*.buildlog
+*.vscode.json
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Coverage reports
+*.coverage
+*.coveragexml
+coverage/
+
+# Publish / artifacts
+.artifacts/
+
+# Benchmark artifacts (if generated elsewhere)
+metrics*.log
+bench_report*.md
+
+# User-specific
+*.csproj.user
+
+# OS-specific files
+[Tt]humbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+
+# Linux
+*~
+
+# Tooling
+.vscode/
+*.code-workspace
